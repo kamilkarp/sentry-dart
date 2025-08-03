@@ -6,6 +6,12 @@
 
 - Replay JNI usage with `SentryFlutterPlugin` ([#3036](https://github.com/getsentry/sentry-dart/pull/3036))
 
+### Dependencies
+
+- Bump Cocoa SDK from v8.52.1 to v8.54.0 ([#9](https://github.com/kamilkarp/sentry-dart/pull/9))
+  - [changelog](https://github.com/getsentry/sentry-cocoa/blob/main/CHANGELOG.md#8540)
+  - [diff](https://github.com/getsentry/sentry-cocoa/compare/8.52.1...8.54.0)
+
 ## 9.3.0
 
 ### Breaking Change (Tooling)
