@@ -6,6 +6,12 @@
 
 - Replay JNI usage with `SentryFlutterPlugin` ([#3036](https://github.com/getsentry/sentry-dart/pull/3036))
 
+### Dependencies
+
+- Bump Native SDK from v0.9.0 to v0.13.8 ([#84](https://github.com/kamilkarp/sentry-dart/pull/84))
+  - [changelog](https://github.com/getsentry/sentry-native/blob/master/CHANGELOG.md#0138)
+  - [diff](https://github.com/getsentry/sentry-native/compare/0.9.0...0.13.8)
+
 ## 9.3.0
 
 ### Breaking Change (Tooling)
